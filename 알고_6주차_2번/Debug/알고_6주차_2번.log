@@ -1,0 +1,3 @@
+﻿  사전_이진탐색_비재귀.c
+c:\users\user\source\repos\알고_6주차_2번\사전_이진탐색_비재귀.c(51): warning C4715: 'search': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  알고_6주차_2번.vcxproj -> C:\Users\user\source\repos\알고_6주차_2번\Debug\알고_6주차_2번.exe
